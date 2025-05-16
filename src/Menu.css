@@ -1,0 +1,24 @@
+.menu-container {
+  background-image: url('/public/images/allergieintolleranze.jpg');
+  background-color: #f5fdf6;
+  padding: 4rem 2rem;
+  font-family: 'Georgia', serif;
+  color: #2f4f4f;
+  text-align: center;
+}
+
+.menu-container h2 {
+  font-size: 2rem;
+  margin-bottom: 2rem;
+  color: #385b4f;
+}
+
+.menu-container ul {
+  list-style: none;
+  padding: 0;
+}
+
+.menu-container li {
+  margin: 1rem 0;
+  font-size: 1.2rem;
+}
