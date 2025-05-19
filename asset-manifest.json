@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.08a10814.css",
-    "main.js": "/static/js/main.01f3c6e7.js",
+    "main.css": "/static/css/main.12c2c971.css",
+    "main.js": "/static/js/main.e99b0875.js",
     "static/js/488.606b6965.chunk.js": "/static/js/488.606b6965.chunk.js",
-    "static/media/home-background.jpg": "/static/media/home-background.5b800cd96dbd16fab9ac.jpg",
-    "static/media/allergieintolleranze.jpg": "/static/media/allergieintolleranze.baf59f338b193c8d484f.jpg",
+    "static/media/home-background2.jpg": "/static/media/home-background2.34b8dfde51bb999b4602.jpg",
+    "static/media/viaggiodinozze.jpg": "/static/media/viaggiodinozze.14a79fcd63ec431d92a2.jpg",
+    "static/media/allergieintolleranze.jpg": "/static/media/allergieintolleranze.583d1f3ce02a577e980b.jpg",
     "service-worker.js": "/service-worker.js",
     "index.html": "/index.html",
-    "main.08a10814.css.map": "/static/css/main.08a10814.css.map",
-    "main.01f3c6e7.js.map": "/static/js/main.01f3c6e7.js.map",
+    "main.12c2c971.css.map": "/static/css/main.12c2c971.css.map",
+    "main.e99b0875.js.map": "/static/js/main.e99b0875.js.map",
     "488.606b6965.chunk.js.map": "/static/js/488.606b6965.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.08a10814.css",
-    "static/js/main.01f3c6e7.js"
+    "static/css/main.12c2c971.css",
+    "static/js/main.e99b0875.js"
   ]
 }
