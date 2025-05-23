@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.12c2c971.css",
-    "main.js": "/static/js/main.e99b0875.js",
+    "main.js": "/static/js/main.69f64e88.js",
     "static/js/488.606b6965.chunk.js": "/static/js/488.606b6965.chunk.js",
     "static/media/home-background2.jpg": "/static/media/home-background2.34b8dfde51bb999b4602.jpg",
     "static/media/viaggiodinozze.jpg": "/static/media/viaggiodinozze.14a79fcd63ec431d92a2.jpg",
@@ -9,11 +9,11 @@
     "service-worker.js": "/service-worker.js",
     "index.html": "/index.html",
     "main.12c2c971.css.map": "/static/css/main.12c2c971.css.map",
-    "main.e99b0875.js.map": "/static/js/main.e99b0875.js.map",
+    "main.69f64e88.js.map": "/static/js/main.69f64e88.js.map",
     "488.606b6965.chunk.js.map": "/static/js/488.606b6965.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.12c2c971.css",
-    "static/js/main.e99b0875.js"
+    "static/js/main.69f64e88.js"
   ]
 }
