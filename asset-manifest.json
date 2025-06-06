@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.e897e4ec.css",
-    "main.js": "/static/js/main.3657aa2e.js",
+    "main.css": "/static/css/main.0427d496.css",
+    "main.js": "/static/js/main.22de6f11.js",
     "static/js/488.606b6965.chunk.js": "/static/js/488.606b6965.chunk.js",
     "static/media/home-background2.jpg": "/static/media/home-background2.34b8dfde51bb999b4602.jpg",
     "static/media/viaggiodinozze.jpg": "/static/media/viaggiodinozze.14a79fcd63ec431d92a2.jpg",
     "static/media/allergieintolleranze.jpg": "/static/media/allergieintolleranze.583d1f3ce02a577e980b.jpg",
     "service-worker.js": "/service-worker.js",
     "index.html": "/index.html",
-    "main.e897e4ec.css.map": "/static/css/main.e897e4ec.css.map",
-    "main.3657aa2e.js.map": "/static/js/main.3657aa2e.js.map",
+    "main.0427d496.css.map": "/static/css/main.0427d496.css.map",
+    "main.22de6f11.js.map": "/static/js/main.22de6f11.js.map",
     "488.606b6965.chunk.js.map": "/static/js/488.606b6965.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e897e4ec.css",
-    "static/js/main.3657aa2e.js"
+    "static/css/main.0427d496.css",
+    "static/js/main.22de6f11.js"
   ]
 }
